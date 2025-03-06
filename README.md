@@ -1,0 +1,2 @@
+# everybody.codes
+puzzle solutions
